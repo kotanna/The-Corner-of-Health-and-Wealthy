@@ -4,7 +4,7 @@ This project was completed at University of New Hampshire for DATA803: Introduct
 ---
 
 ## Authors and Acknowledgments
-* [Frawley Barton] (https://github.com/bartonf90)
+* [Frawley Barton](https://github.com/bartonf90)
 * Eric Dorata
 * [Sam Isenberg](https://github.com/saisenberg)
 * [Anna M. Kot](https://github.com/kotanna)
