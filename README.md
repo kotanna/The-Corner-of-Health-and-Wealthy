@@ -1,5 +1,5 @@
 # The Corner of Health & Wealthy: Is the World Getting Better?
-This project was completed at University of New Hampshire for DATA803: Introduction to Analytics Applications (Summer 2018). A summary of the project and its outcome is available at [saisenberg.com](https://saisenberg.com/projects/world-progress.html).
+A summary of the project and its outcome is available at [saisenberg.com](https://saisenberg.com/projects/world-progress.html).
 
 ---
 
